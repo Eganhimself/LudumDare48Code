@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameJamBeta", "GameJamBeta\GameJamBeta\GameJamBeta.csproj", "{CA647F18-A6B8-421E-8A00-B7064E0D1389}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GameJamBetaContent", "GameJamBeta\GameJamBetaContent\GameJamBetaContent.contentproj", "{ED5CF7F4-4BB9-433D-B4AC-9A36362A6EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics XNA", "..\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\Farseer Physics XNA.csproj", "{0A850700-1ABB-4288-A391-6726B90EBEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA647F18-A6B8-421E-8A00-B7064E0D1389}.Debug|x86.ActiveCfg = Debug|x86
+		{CA647F18-A6B8-421E-8A00-B7064E0D1389}.Debug|x86.Build.0 = Debug|x86
+		{CA647F18-A6B8-421E-8A00-B7064E0D1389}.Release|x86.ActiveCfg = Release|x86
+		{CA647F18-A6B8-421E-8A00-B7064E0D1389}.Release|x86.Build.0 = Release|x86
+		{ED5CF7F4-4BB9-433D-B4AC-9A36362A6EFC}.Debug|x86.ActiveCfg = Debug|x86
+		{ED5CF7F4-4BB9-433D-B4AC-9A36362A6EFC}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.ActiveCfg = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.Build.0 = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
